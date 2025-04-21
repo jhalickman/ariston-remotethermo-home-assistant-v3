@@ -1,2 +1,2 @@
-ariston>=0.16.4
+ariston @ git+https://github.com/jhalickman/python-ariston-api@main
 homeassistant>=2023.1.0
