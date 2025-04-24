@@ -11,6 +11,6 @@
   "loggers": ["ariston"],
   "requirements": ["ariston@git+https://github.com/jhalickman/python-ariston-api@main#ariston"],
   "ssdp": [],
-  "version": "0.19.8",
+  "version": "0.20.0",
   "zeroconf": []
 }
